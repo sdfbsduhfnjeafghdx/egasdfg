@@ -1,0 +1,112 @@
+- manifestVersion: 1
+  name: BepInEx-BepInExPack
+  authorName: BepInEx
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/
+  displayName: BepInExPack
+  description: BepInEx pack for Mono Unity games. Preconfigured and ready to use.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2100
+  enabled: true
+  icon: C:/Users/susga/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/BepInEx-BepInExPack/5.4.2100/icon.png
+- manifestVersion: 1
+  name: anormaltwig-LateCompany
+  authorName: anormaltwig
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/
+  displayName: LateCompany
+  description: A mod to allow players to join after the game starts.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 10
+  enabled: true
+  icon: C:/Users/susga/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/anormaltwig-LateCompany/1.0.10/icon.png
+- manifestVersion: 1
+  name: Rune580-LethalCompany_InputUtils
+  authorName: Rune580
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
+  displayName: LethalCompany_InputUtils
+  description: Utilities for creating InputActions and providing an (opinionated)
+    improved UI.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 5
+    patch: 6
+  enabled: true
+  icon: C:/Users/susga/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Rune580-LethalCompany_InputUtils/0.5.6/icon.png
+- manifestVersion: 1
+  name: KlutzyBubbles-BetterEmotes
+  authorName: KlutzyBubbles
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/
+  displayName: BetterEmotes
+  description: "[v47] Alters the integration method of more emotes and adds some
+    config options"
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Rune580-LethalCompany_InputUtils-0.4.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 4
+  enabled: true
+  icon: C:/Users/susga/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/KlutzyBubbles-BetterEmotes/1.3.4/icon.png
+- manifestVersion: 1
+  name: notnotnotswipez-MoreCompany
+  authorName: notnotnotswipez
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/
+  displayName: MoreCompany
+  description: A stable lobby player count expansion mod. With cosmetics!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 7
+    patch: 6
+  enabled: true
+  icon: C:/Users/susga/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/notnotnotswipez-MoreCompany/1.7.6/icon.png
